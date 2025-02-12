@@ -2,6 +2,8 @@
 
 Conto cliente1 = new();
 CercaNomi cercaNomi = new();
+Numbers numbers = new();
 
 //cliente1.AperturaConto();
-cercaNomi.Cerca();
+//cercaNomi.Cerca();
+numbers.NumbersInput();
